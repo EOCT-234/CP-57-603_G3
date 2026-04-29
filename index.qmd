@@ -1,0 +1,51 @@
+---
+title: "CP_57-603_G3"
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+## Escuela profesional:
+
+Ingeniería agrónoma
+
+## Curso:
+
+Cultivos Tropicales
+
+## Ciclo:
+
+IX
+
+## Docente:
+
+Vasquez Garcia, Jheiner
+
+## Integrantes:
+
+Luis Miguel Maicelo Villanueva
+
+Jhonatan Olascuaga Villalobos
+
+Ivan Ramos Briceño
+
+Jhener Ivan Visalot Chappa
+
+Andi Toro Rivera
+
+## Variedad:
+
+CP 57-603
+
+## Datos de colecta:
+Distrito: Luya
+Provincia: Luya
+Región: Amazonas
+Altitud: 1800
+
+## Descripción de la variedad:
+
+Variedad de origen estadounidense (Canal Point). Se caracteriza por un crecimiento vigoroso, tallos de grosor medio y buena capacidad de rebrote. Es resistente a diversas enfermedades foliares.
